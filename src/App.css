@@ -1,0 +1,15 @@
+.mainNav a {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.mainNav a:hover,
+.mainNav a:focus {
+    text-decoration: underline;
+}
+
+.mainNav a:last-child {
+    margin-right: 0;
+}
