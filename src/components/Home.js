@@ -3,11 +3,7 @@ import LoginButton from './LoginButton';
 import LogoutButton from './LogoutButton';
 
 class Home extends Component {
-
-  constructor(){
-    super();
-  }
-
+  
   render() {
 
     let button;
