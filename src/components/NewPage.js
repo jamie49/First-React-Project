@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 // Static content with no state, use this instead of component/class structure:
 const NewPage = () => {
